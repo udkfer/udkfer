@@ -1,6 +1,6 @@
 ### Hiii, I'm Luís Fernando<img src="https://media.giphy.com/media/fbSR0cD5tisRXeOdPa/giphy.gif?cid=ecf05e478e7zgopw3tydil0yclrmqeoji06ah44816nlji3x&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="10%"></a>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=udkfer&bg_color=00000000&title_color=ffffff&icon_color=00ffff&text_color=808080&ring_color=00ff00&show_icons=true&rank_icon=github"/> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udkfer&layout=compact&bg_color=00000000&title_color=ffffff&icon_color=00ff00&text_color=808080&show_icons=true&size_weight=0.5&count_weight=0.5"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=udkfer&bg_color=00000000&title_color=ffffff&icon_color=00ffff&text_color=808080&ring_color=00ff00&hide_border=true&show_icons=true&disable_animations=true&rank_icon=github"/> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udkfer&layout=compact&bg_color=00000000&title_color=ffffff&icon_color=00ff00&text_color=808080&hide_border=true&show_icons=true&disable_animations=true&size_weight=0.5&count_weight=0.5"/>
 
 <b>&nbsp;Powered&nbsp;by&nbsp;:</b>
 <p align="left">

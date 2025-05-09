@@ -1,4 +1,12 @@
-<img height=200 width=395 align="center" src="https://github-readme-stats.vercel.app/api?username=udkfer&bg_color=000000&title_color=ffffff&icon_color=00ff00&text_color=808080&ring_color=ff8000&show_icons=true&rank_icon=github"/> <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udkfer&layout=compact&bg_color=000000&title_color=ffffff&icon_color=00ff00&text_color=808080&show_icons=true"/>
+### Hiii, I'm Luís Fernando<img src="https://media.giphy.com/media/fbSR0cD5tisRXeOdPa/giphy.gif?cid=ecf05e478e7zgopw3tydil0yclrmqeoji06ah44816nlji3x&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="10%"></a>
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=udkfer&bg_color=00000000&title_color=ffffff&icon_color=00ffff&text_color=808080&ring_color=00ff00&show_icons=true&rank_icon=github"/> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udkfer&layout=compact&bg_color=00000000&title_color=ffffff&icon_color=00ff00&text_color=808080&show_icons=true&size_weight=0.5&count_weight=0.5"/>
+
+<b>&nbsp;Powered&nbsp;by&nbsp;:</b>
+<p align="left">
+<a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="30" height="30"/></a>
+<a href="https://neovim.io" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="30" height="30"/></a>
+</p>
 
 <!--
 **udkfer/udkfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
